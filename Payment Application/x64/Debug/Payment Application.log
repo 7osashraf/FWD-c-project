@@ -1,0 +1,5 @@
+﻿  app.c
+C:\Users\ENG HOSAM\OneDrive\Desktop\udacity_project\Payment Application\Payment Application\server.h(48,62): warning C4030: first formal parameter list longer than the second list
+C:\Users\ENG HOSAM\OneDrive\Desktop\udacity_project\Payment Application\Payment Application\app.c(61,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ENG HOSAM\OneDrive\Desktop\udacity_project\Payment Application\Payment Application\app.c(84,11): warning C4098: 'appStart': 'void' function returning a value
+  Payment Application.vcxproj -> C:\Users\ENG HOSAM\OneDrive\Desktop\udacity_project\Payment Application\x64\Debug\Payment Application.exe
